@@ -26,6 +26,7 @@ The key features of this website:
 ## Project Links
 
 - [GitHub repo for the project](https://github.com/waimea-jmblack/300Dtd-chores-to-time-web)
+- [Project Documentation](https://waimea-jmblack.github.io/300Dtd-chores-to-time-web/)
 - [Live web app](https://...)
 
 
