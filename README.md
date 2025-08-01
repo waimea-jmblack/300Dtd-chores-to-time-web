@@ -17,7 +17,8 @@ The key features of this website:
 - The addition and removal of tasks from the user's view but kept in the database.
 - Having a Boolean that checks to see if the task is still available.
 - At the end of each day, the tasks reset and the admins have to add new ones the next day.
-- Feature 5 here
+- Tasks can be added to the system
+- Tasks can be marked as done
 
 
 ---
