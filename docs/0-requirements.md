@@ -2,17 +2,17 @@
 
 ## Identified Problem or Need
 
-Replace this text with a clearly stated problem or need that exists that your project will attempt to solve / fulfil.
+The problem that the end users require me to solve is that their children are spending too much time on their devices and not finishing the chores/ work around the house. I will attempt to solve this problem by creating a website where parents can put tasks into a list that the children can complete in return for a certain amount of time on their devices. 
+
 
 
 ## End-User Requirements
 
-Replace this text with a description of your typical end-users and their specific needs / expectations / requirements.
-
+There are two different types of end users in this topic, The Admins/ Parents and the Workers/ Children. The Admins need a system in which they can sign in + out, easily edit the task sheet (Ie., Things like addition and deletion of tasks, etc.) and to also be able to access and see all the tasks completed or not completed in the database, as it resets every day. The Workers need to be able to look at the sign in + out, task description and complete tasks. 
 
 ## Proposed Solution
 
-Replace this text with a brief statement about the system that you intend to create, including the key functionality it should have.
+I intend to create a system that allows users to either be able to add and delete tasks (whilst being stored in the database), or to be able to complete tasks for certain amounts of time on cellular devices e.g., Unload Dishwasher = 20 minutes on a device. The key functionality of this website is that the admins/ parents can add tasks to the network for the kids to complete. 
 
 
 ---
