@@ -19,7 +19,7 @@ I intend to create a system that allows users to either be able to add and delet
 
 # Relevant Implications
 
-## NAME OF IMPLICATION 1
+## 
 
 Replace this text with a clear explanation of what the implication means.
 
