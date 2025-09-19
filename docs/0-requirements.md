@@ -53,7 +53,7 @@ This implication is relevant to this particular project due to the significant i
 
 This means that we need to ensure that the end users can easily access, control and use the website that we are creating. This will have to work for both different types of end users (Parents and Children). It is vital that we build the website in a way that makes every action obvious and easy to use, as the age range for end users could range anywhere from 5 to 80+. 
 
-
+Note to self: You know what you need to do.
 
 ## NAME OF IMPLICATION 3
 
