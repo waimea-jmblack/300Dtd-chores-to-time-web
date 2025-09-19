@@ -39,17 +39,19 @@ The key features of this website: Two different sets of users (Admins and Task-U
 
 
 
-## NAME OF IMPLICATION 2
+## Usability Implication
 
-Replace this text with a clear explanation of what the implication means.
+The Usability Implication of Digital Technologies refers to how easily an end user can access and use the website without any help or guidance. This means that for this Implication to be not only functional but also active and of use, it needs to be a top priority heuristic 
+
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+This implication is relevant to this particular project due to the significant importance of it. Without the Useability Implication acting as the foundation of the website, the rest of the implications and the site as a whole would not run, let alone work to the standards of the end users. 
+
 
 ### Impact / Considerations
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+This means that we need to ensure that the end users can easily access, control and use the website that we are creating. This will have to work for both different types of end users (Parents and Children). It is vital that we build the website in a way that makes every action obvious and easy to use, as the age range for end users could range anywhere from 5 to 80+. 
 
 
 
